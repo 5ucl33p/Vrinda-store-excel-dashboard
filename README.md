@@ -1,3 +1,10 @@
+<img width="1380" height="728" alt="Screenshot 2026-01-27 005333" src="https://github.com/user-attachments/assets/dcecebcb-e88f-4afe-b58d-fb7b141cdcaf" />
+
+
+
+
+
+
 📊 Excel First Project
 Vrinda Store Annual Report 2022 — Step-by-Step Notes
 ✅ Dataset Columns
